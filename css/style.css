@@ -683,10 +683,12 @@ color: rgb(7, 37, 22);
 .people
 {
     width:100%;
-    height: 100vh;
+    height: 70vh;
     background-image: url("../images/free-photo-of-wild-daisies-in-the-meadow.jpeg");
     background-attachment:fixed;
     /* background-size:cover; */
+    margin:5% 0;
+    
 
 }
 .people-overlay
